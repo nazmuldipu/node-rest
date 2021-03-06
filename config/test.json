@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "abc",
+  "db": "mongodb://localhost/node_base_test"
+}
